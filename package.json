@@ -1,0 +1,19 @@
+{
+  "name": "loginapi",
+  "version": "1.0.0",
+  "description": "Login API for Cloud Ace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Williams Perdana",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
